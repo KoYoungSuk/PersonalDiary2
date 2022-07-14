@@ -24,9 +24,14 @@ namespace PersonalDiary2
         {
             String id = textBox1.Text;
             String password = textBox2.Text;
+            Boolean check = false;
             try
             {
                 DiaryDAO diarydao = new DiaryDAO(g.address, g.port, g.sid, g.id, g.pw);
+                check = diarydao.Login(password);
+                System.Diagnostics.Debug.WriteLine(password);
+                System.Diagnostics.Debug.WriteLine(check);
+                /*
                 List<MemberDTO> memberlist = diarydao.getMemberList();
                 if(memberlist != null)
                 {
@@ -42,15 +47,13 @@ namespace PersonalDiary2
                         }
                     }
                 }
-                else
-                {
-                    g.errormessage("Null Error");
-                }
+                */
             }
             catch (Exception ex)
             {
                 g.errormessage(ex.Message);
             }
+
             if (check)
             {
                 Form1 frm = new Form1(id, false);

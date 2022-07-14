@@ -107,6 +107,27 @@ namespace PersonalDiary2
             disconnectDB();
             return diarylist; 
         }
+
+        public Boolean Login(String password)
+        {
+            Boolean status = false;
+            connectDB();
+            String sql = "select password from member where id = 'admin'";
+            OracleCommand scmd = new OracleCommand(sql, conn);
+            OracleDataReader dr = scmd.ExecuteReader();
+            String db_password = null; 
+            while (dr.Read())
+            {
+                db_password = dr["password"].ToString();
+            }
+            if(BCrypt.Net.BCrypt.Verify(password, db_password))
+            {
+                status = true;
+            }
+            disconnectDB();
+            return status; 
+        }
+        /*
         public List<MemberDTO> getMemberList()  //For Login 
         {
             List<MemberDTO> memberlist = new List<MemberDTO>();
@@ -125,7 +146,8 @@ namespace PersonalDiary2
             disconnectDB();
             return memberlist;
         }
-        
+        */
+
         public DataTable getDiaryList2(Boolean desc)
         {
             DataTable dt = new DataTable();
