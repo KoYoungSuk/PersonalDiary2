@@ -29,8 +29,6 @@ namespace PersonalDiary2
             {
                 DiaryDAO diarydao = new DiaryDAO(g.address, g.port, g.sid, g.id, g.pw);
                 check = diarydao.Login(password);
-                System.Diagnostics.Debug.WriteLine(password);
-                System.Diagnostics.Debug.WriteLine(check);
                 /*
                 List<MemberDTO> memberlist = diarydao.getMemberList();
                 if(memberlist != null)
