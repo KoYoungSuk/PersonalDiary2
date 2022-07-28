@@ -1,5 +1,5 @@
 # PersonalDiary
-VERSION 1.6 2022-06-13
+VERSION 1.75 2022-07-29
 
 Visual Studio Community 2019/.NET FRAMEWORK (need to install 4.6 or Higher)
 
@@ -17,7 +17,7 @@ HOW TO USE SOURCE CODE:
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
   # Screenshot 
 
-![image](https://user-images.githubusercontent.com/58511486/180649029-6460b47b-4eb7-4d4c-81af-8f3d7a203cb6.png)
+![image](https://user-images.githubusercontent.com/58511486/181483131-9921a7be-a7d3-4ada-8a4b-300614733bc8.png)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
