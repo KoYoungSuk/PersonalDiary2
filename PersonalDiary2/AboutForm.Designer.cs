@@ -58,9 +58,9 @@ namespace PersonalDiary2
             this.label1.Font = new System.Drawing.Font("맑은 고딕", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label1.Location = new System.Drawing.Point(15, 49);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(64, 20);
+            this.label1.Size = new System.Drawing.Size(73, 20);
             this.label1.TabIndex = 1;
-            this.label1.Text = "VER 1.6";
+            this.label1.Text = "VER 1.75";
             // 
             // label2
             // 
@@ -89,7 +89,7 @@ namespace PersonalDiary2
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(93, 20);
             this.label4.TabIndex = 4;
-            this.label4.Text = "2022-06-13";
+            this.label4.Text = "2022-07-29";
             // 
             // label5
             // 
@@ -106,9 +106,8 @@ namespace PersonalDiary2
             this.label6.Font = new System.Drawing.Font("맑은 고딕", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label6.Location = new System.Drawing.Point(318, 9);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(54, 13);
+            this.label6.Size = new System.Drawing.Size(0, 13);
             this.label6.TabIndex = 6;
-            this.label6.Text = "Pre RTM ";
             // 
             // button2
             // 

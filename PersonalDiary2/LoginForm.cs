@@ -14,7 +14,6 @@ namespace PersonalDiary2
     public partial class LoginForm : Form
     {
         global g = new global();
-        Boolean check = false;
         public LoginForm()
         {
             InitializeComponent();

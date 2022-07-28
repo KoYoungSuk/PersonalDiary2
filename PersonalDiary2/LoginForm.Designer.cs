@@ -55,7 +55,7 @@ namespace PersonalDiary2
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(82, 30);
+            this.label3.Location = new System.Drawing.Point(82, 33);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(22, 15);
             this.label3.TabIndex = 2;
@@ -72,7 +72,7 @@ namespace PersonalDiary2
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(110, 22);
+            this.textBox1.Location = new System.Drawing.Point(110, 30);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(303, 23);
@@ -114,9 +114,9 @@ namespace PersonalDiary2
             this.label5.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label5.Location = new System.Drawing.Point(143, 69);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(193, 21);
+            this.label5.Size = new System.Drawing.Size(202, 21);
             this.label5.TabIndex = 8;
-            this.label5.Text = "2022-06-13 Version 1.6 ";
+            this.label5.Text = "2022-07-29 Version 1.75 ";
             // 
             // label6
             // 
