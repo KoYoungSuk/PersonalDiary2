@@ -1,11 +1,11 @@
-# PersonalDiary
-VERSION 1.75 2022-07-29
+# MyDiary  
+VERSION 2.8 2023-05-27 
 
 Visual Studio Community 2019/.NET FRAMEWORK (need to install 4.6 or Higher)
 
-NOTICE: This Program is Created for Administrator-Only Purpose.
+NOTICE: You need Oracle DataBase Server and SFTP Server.
 
-But You can use this source code.
+But You can convert this source code. 
 
 HOW TO USE SOURCE CODE: 
   1. INSTALL GIT ON YOUR COMPUTER. (https://git-scm.com)
@@ -17,19 +17,11 @@ HOW TO USE SOURCE CODE:
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
   # Screenshot 
 
-![image](https://user-images.githubusercontent.com/58511486/181483131-9921a7be-a7d3-4ada-8a4b-300614733bc8.png)
+![image] ![image](https://github.com/KoYoungSuk/PersonalDiary2/assets/58511486/5a7e5dd3-08af-4884-af84-c13d29aeebe7)
 
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
- # NOTICE
- 
- You can find easter egg. 
- 
- (Hint: About) 
- 
- (Hint 2: Actually very easy.) 
- 
- (Hint 3: But Administrator-Only... Use Code!) 
+  # Full Screenshot
+  
+![image](https://github.com/KoYoungSuk/PersonalDiary2/assets/58511486/09e02772-6f21-4ed1-9933-bc3e0396dda1)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
