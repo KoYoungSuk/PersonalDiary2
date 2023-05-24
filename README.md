@@ -17,7 +17,7 @@ HOW TO USE SOURCE CODE:
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
   # Screenshot 
 
-![image] ![image](https://github.com/KoYoungSuk/PersonalDiary2/assets/58511486/5a7e5dd3-08af-4884-af84-c13d29aeebe7)
+![image](https://github.com/KoYoungSuk/PersonalDiary2/assets/58511486/5a7e5dd3-08af-4884-af84-c13d29aeebe7)
 
   # Full Screenshot
   
