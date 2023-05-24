@@ -1,9 +1,11 @@
 # MyDiary  
 VERSION 2.8 2023-05-27 
 
-Visual Studio Community 2019/.NET FRAMEWORK (need to install 4.6 or Higher)
+Visual Studio Community 2019/.NET FRAMEWORK (need to install 4.5.2 or Higher)
 
-Supported Operating System: Microsoft Windows 7 SP1 64-bit or Later.
+Supported Operating System: Microsoft Windows 7 SP1 32/64-bit or Later.
+
+(If you convert .NET Framework to 4.5.2, You can use this program on Windows Vista SP2.)
 
 NOTICE: You need Oracle DataBase Server and SFTP Server.
 
